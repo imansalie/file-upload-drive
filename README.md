@@ -21,4 +21,5 @@ This project is built with:
 ## Live Demo
 
 Check out the live version of the project here:  
-[File Drive Project - Live Demo]https://file-upload-drive-sallys-projects-bf84540d.vercel.app/auth
+[File Drive Project - Live Demo] 
+file-upload-drive.vercel.app
