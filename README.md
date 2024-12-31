@@ -22,4 +22,4 @@ This project is built with:
 
 Check out the live version of the project here:  
 [File Drive Project - Live Demo] 
-file-upload-drive.vercel.app
+https://file-upload-drive.vercel.app/auth
